@@ -11,7 +11,7 @@ The Quotes App is designed to showcase the implementation of displaying quotes f
 - **Display Quotes**: Quotes are displayed in a user-friendly format using LazyColumn.
 - **Local Data Access**: Quotes are loaded from a JSON file stored within the project.
 
-  ## Screenshots
+## Screenshots
 
 <div style="display: flex; justify-content: center; align-items: center;">
     <img src="https://github.com/Bhavyansh03-tech/Learning_Quotes/assets/96388594/bd389393-619c-4be2-8b76-90e66e7a8e6b" alt="Loading Page" style="width: 200px; height: auto; margin-right: 10px;">
