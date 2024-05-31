@@ -1,6 +1,6 @@
 # Quotes App
 
-This project is a quotes app developed for learning purposes, focusing on demonstrating how to display items in a LazyColumn and access data from a JSON file within the project. The app does not rely on any external API and is built using the MVVM architecture.
+This project is a quotes app developed for learning purposes, focusing on demonstrating how to display items in a LazyColumn and access data from a JSON file within the project. The app does not rely on any external API.
 
 ## Description
 
