@@ -22,9 +22,10 @@ The Quotes App is designed to showcase the implementation of displaying quotes f
 ## Usage
 
 1. Clone the repository:
-    ```bash
+
+```bash
     git clone https://github.com/Bhavyansh03-tech/Learning_Quotes.git
-    ```
+```
 2. Open the project in your preferred IDE.
 3. Run the app on an Android emulator or device.
 
